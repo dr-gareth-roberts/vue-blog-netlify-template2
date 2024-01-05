@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/vue-blog-netlify-template2 is built on the following main stack:
+
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
@@ -16,11 +17,13 @@ dr-gareth-roberts/vue-blog-netlify-template2 is built on the following main stac
 - [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/vue-blog-netlify-template2 is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
@@ -35,14 +38,15 @@ dr-gareth-roberts/vue-blog-netlify-template2 is built on the following main stac
 - <img width='25' height='25' src='https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png' alt='css-loader'/> [css-loader](https://github.com/webpack-contrib/css-loader) – CSS Pre-processors / Extensions
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dr-gareth-roberts/vue-blog-netlify-template2](https://github.com/dr-gareth-roberts/vue-blog-netlify-template2)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|64<br/>Tools used|11/10/23 <br/>Report generated|
+|65<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -208,9 +212,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (47)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (48)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (47)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (48)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -223,6 +227,7 @@ Full tech stack [here](/techstack.md)
 |[babel-preset-stage-2](https://www.npmjs.com/babel-preset-stage-2)|v6.24.1|12/28/17|Jazib Sawar |MIT|N/A|
 |[babel-register](https://www.npmjs.com/babel-register)|v6.26.0|12/26/17|Jazib Sawar |MIT|N/A|
 |[capitalize](https://www.npmjs.com/capitalize)|v1.0.0|12/26/17|Jazib Sawar |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|10/26/17|Nicolas Udy |MIT|N/A|
 |[connect-history-api-fallback](https://www.npmjs.com/connect-history-api-fallback)|v1.5.0|01/04/18|Jazib Sawar |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v4.2.0|12/26/17|Jazib Sawar |MIT|N/A|
 |[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v10.2.1|12/26/17|Jazib Sawar |MIT|N/A|
@@ -265,4 +270,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
